@@ -13,6 +13,13 @@ To pass the `session` to the root argument for the solvers, we pass object with 
 })))
 ```
 
+### Usage:
+```bash
+ npm i
+ npm start
+```
+and then open http://localhost:3000/graphql in your browser
+
 ### GraphQL Queries:
 
 #### Let's create user, using `createUser` mutatation request:
